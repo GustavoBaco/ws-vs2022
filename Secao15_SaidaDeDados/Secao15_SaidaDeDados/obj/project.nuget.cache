@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSdDYq0i9qDXyoMBn5ZYjyIlOkxt4xz4fKlWAWsOKCdG4V48Leg6oXtXC6xHZMfE+7IYAYG5r86cRiSCFwugoQ==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Secao15_SaidaDeDados\\Secao15_SaidaDeDados\\Secao15_SaidaDeDados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

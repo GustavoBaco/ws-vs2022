@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\bin\Debug\net5.0\Exercicio_areaDoCirculo.exe
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\bin\Debug\net5.0\Exercicio_areaDoCirculo.deps.json
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\bin\Debug\net5.0\Exercicio_areaDoCirculo.runtimeconfig.json
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\bin\Debug\net5.0\Exercicio_areaDoCirculo.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\bin\Debug\net5.0\Exercicio_areaDoCirculo.dll
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\bin\Debug\net5.0\ref\Exercicio_areaDoCirculo.dll
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\bin\Debug\net5.0\Exercicio_areaDoCirculo.pdb
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\obj\Debug\net5.0\Exercicio_areaDoCirculo.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\obj\Debug\net5.0\Exercicio_areaDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\obj\Debug\net5.0\Exercicio_areaDoCirculo.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\obj\Debug\net5.0\Exercicio_areaDoCirculo.AssemblyInfo.cs
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\obj\Debug\net5.0\Exercicio_areaDoCirculo.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\obj\Debug\net5.0\Exercicio_areaDoCirculo.dll
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\obj\Debug\net5.0\ref\Exercicio_areaDoCirculo.dll
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\obj\Debug\net5.0\Exercicio_areaDoCirculo.pdb
+C:\temp\ws-vs2022\Beecrowd\Exercicio_areaDoCirculo\obj\Debug\net5.0\Exercicio_areaDoCirculo.genruntimeconfig.cache

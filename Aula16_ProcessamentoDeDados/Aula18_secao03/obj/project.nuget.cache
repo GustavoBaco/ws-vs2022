@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNlia0oL2uuyjo9jWJSzDT7lmR5yWZ9+uxyVSJGPBP5uh0GSd2+aDVEQYcFSVY/5h3dRgvAooLpTkSrr4jW68w==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Aula16_ProcessamentoDeDados\\Aula18_secao03\\Aula18_secao03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\bin\Debug\net5.0\Beecrowd.exe
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\bin\Debug\net5.0\Beecrowd.deps.json
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\bin\Debug\net5.0\Beecrowd.runtimeconfig.json
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\bin\Debug\net5.0\Beecrowd.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\bin\Debug\net5.0\Beecrowd.dll
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\bin\Debug\net5.0\ref\Beecrowd.dll
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\bin\Debug\net5.0\Beecrowd.pdb
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\obj\Debug\net5.0\Beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\obj\Debug\net5.0\Beecrowd.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\obj\Debug\net5.0\Beecrowd.AssemblyInfo.cs
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\obj\Debug\net5.0\Beecrowd.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\obj\Debug\net5.0\Beecrowd.dll
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\obj\Debug\net5.0\ref\Beecrowd.dll
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\obj\Debug\net5.0\Beecrowd.pdb
+C:\temp\ws-vs2022\Beecrowd\Beecrowd\obj\Debug\net5.0\Beecrowd.genruntimeconfig.cache

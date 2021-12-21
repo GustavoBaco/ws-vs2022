@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Secao15_SaidaDeDados/1.0.0": {
+        "runtime": {
+          "Secao15_SaidaDeDados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Secao15_SaidaDeDados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

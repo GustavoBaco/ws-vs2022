@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAsjEDJMAKBCbP7vrmZV8SiJ5LAPH/ggy880d6rsJHIboK9I+43gnI8nIbV4aE1WIY0IN7jbSSqpERcSjMc4Kw==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Aula16_ProcessamentoDeDados\\Aula19_FuncoesMatematicas_secao03\\Aula19_FuncoesMatematicas_secao03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

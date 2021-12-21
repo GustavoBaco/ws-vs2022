@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cbdbe788-ceef-4f99-bbf3-457e889abfd4": {
+      "ProjectGuid": "cbdbe788-ceef-4f99-bbf3-457e889abfd4",
+      "DisplayName": "Aula16_ProcessamentoDeDados",
+      "ColorIndex": 0
+    },
+    "989cce82-7981-41be-aa5c-6b0f5f2094f0": {
+      "ProjectGuid": "989cce82-7981-41be-aa5c-6b0f5f2094f0",
+      "DisplayName": "Exemplo2",
+      "ColorIndex": 1
+    },
+    "a99f94b4-39b2-4cbb-842c-4531e9e61163": {
+      "ProjectGuid": "a99f94b4-39b2-4cbb-842c-4531e9e61163",
+      "DisplayName": "Exemplo3_CalculandoArea",
+      "ColorIndex": 2
+    },
+    "0b13bb37-f9f3-44c3-a743-500a95a62033": {
+      "ProjectGuid": "0b13bb37-f9f3-44c3-a743-500a95a62033",
+      "DisplayName": "Exemplo4",
+      "ColorIndex": 3
+    },
+    "517cdb17-cf25-4d29-8986-3eec76ce1f31": {
+      "ProjectGuid": "517cdb17-cf25-4d29-8986-3eec76ce1f31",
+      "DisplayName": "Aula17_secao03",
+      "ColorIndex": 4
+    },
+    "53718c51-ea17-4153-a8bf-aaf030ac2cac": {
+      "ProjectGuid": "53718c51-ea17-4153-a8bf-aaf030ac2cac",
+      "DisplayName": "Aula18_secao03",
+      "ColorIndex": 5
+    },
+    "4018f241-4263-4492-833f-cd6b3a03a43d": {
+      "ProjectGuid": "4018f241-4263-4492-833f-cd6b3a03a43d",
+      "DisplayName": "Exercicio_proposto_secao03",
+      "ColorIndex": 6
+    },
+    "cd61e953-78d8-49d8-87d4-72145c64e136": {
+      "ProjectGuid": "cd61e953-78d8-49d8-87d4-72145c64e136",
+      "DisplayName": "Aula19_FuncoesMatematicas_secao03",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

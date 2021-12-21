@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio_areaDoCirculo/1.0.0": {
+        "runtime": {
+          "Exercicio_areaDoCirculo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_areaDoCirculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

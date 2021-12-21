@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62d9b751-f98a-4260-8012-dbbb43cdde65": {
+      "ProjectGuid": "62d9b751-f98a-4260-8012-dbbb43cdde65",
+      "DisplayName": "Beecrowd",
+      "ColorIndex": 0
+    },
+    "6d7282d5-c6a3-4d8b-b7fc-a3286f9f61b7": {
+      "ProjectGuid": "6d7282d5-c6a3-4d8b-b7fc-a3286f9f61b7",
+      "DisplayName": "Exercicio_areaDoCirculo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

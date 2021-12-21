@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\bin\Debug\net5.0\Secao15_SaidaDeDados.exe
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\bin\Debug\net5.0\Secao15_SaidaDeDados.deps.json
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\bin\Debug\net5.0\Secao15_SaidaDeDados.runtimeconfig.json
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\bin\Debug\net5.0\Secao15_SaidaDeDados.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\bin\Debug\net5.0\Secao15_SaidaDeDados.dll
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\bin\Debug\net5.0\ref\Secao15_SaidaDeDados.dll
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\bin\Debug\net5.0\Secao15_SaidaDeDados.pdb
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\obj\Debug\net5.0\Secao15_SaidaDeDados.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\obj\Debug\net5.0\Secao15_SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\obj\Debug\net5.0\Secao15_SaidaDeDados.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\obj\Debug\net5.0\Secao15_SaidaDeDados.AssemblyInfo.cs
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\obj\Debug\net5.0\Secao15_SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\obj\Debug\net5.0\Secao15_SaidaDeDados.dll
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\obj\Debug\net5.0\ref\Secao15_SaidaDeDados.dll
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\obj\Debug\net5.0\Secao15_SaidaDeDados.pdb
+C:\temp\ws-vs2022\Secao15_SaidaDeDados\Secao15_SaidaDeDados\obj\Debug\net5.0\Secao15_SaidaDeDados.genruntimeconfig.cache

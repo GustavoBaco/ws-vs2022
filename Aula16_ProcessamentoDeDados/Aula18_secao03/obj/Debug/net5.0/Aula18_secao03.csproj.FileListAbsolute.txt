@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\bin\Debug\net5.0\Aula18_secao03.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\bin\Debug\net5.0\Aula18_secao03.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\bin\Debug\net5.0\Aula18_secao03.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\bin\Debug\net5.0\Aula18_secao03.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\bin\Debug\net5.0\Aula18_secao03.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\bin\Debug\net5.0\ref\Aula18_secao03.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\bin\Debug\net5.0\Aula18_secao03.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\obj\Debug\net5.0\Aula18_secao03.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\obj\Debug\net5.0\Aula18_secao03.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\obj\Debug\net5.0\Aula18_secao03.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\obj\Debug\net5.0\Aula18_secao03.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\obj\Debug\net5.0\Aula18_secao03.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\obj\Debug\net5.0\ref\Aula18_secao03.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\obj\Debug\net5.0\Aula18_secao03.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula18_secao03\obj\Debug\net5.0\Aula18_secao03.genruntimeconfig.cache

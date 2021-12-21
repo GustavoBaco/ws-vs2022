@@ -1,0 +1,16 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\bin\Debug\net5.0\Exemplo3_CalculandoArea.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\bin\Debug\net5.0\Exemplo3_CalculandoArea.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\bin\Debug\net5.0\Exemplo3_CalculandoArea.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\bin\Debug\net5.0\Exemplo3_CalculandoArea.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\bin\Debug\net5.0\Exemplo3_CalculandoArea.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\bin\Debug\net5.0\ref\Exemplo3_CalculandoArea.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\bin\Debug\net5.0\Exemplo3_CalculandoArea.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\obj\Debug\net5.0\Exemplo3_CalculandoArea.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\obj\Debug\net5.0\Exemplo3_CalculandoArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\obj\Debug\net5.0\Exemplo3_CalculandoArea.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\obj\Debug\net5.0\Exemplo3_CalculandoArea.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\obj\Debug\net5.0\Exemplo3_CalculandoArea.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\obj\Debug\net5.0\Exemplo3_CalculandoArea.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\obj\Debug\net5.0\ref\Exemplo3_CalculandoArea.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\obj\Debug\net5.0\Exemplo3_CalculandoArea.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Exemplo3_CalculandoArea\obj\Debug\net5.0\Exemplo3_CalculandoArea.genruntimeconfig.cache

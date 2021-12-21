@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio_proposto_secao03/1.0.0": {
+        "runtime": {
+          "Exercicio_proposto_secao03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_proposto_secao03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

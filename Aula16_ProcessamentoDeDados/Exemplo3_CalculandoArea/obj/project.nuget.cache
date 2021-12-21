@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5dtTJCMdvGgHyzATE55EGvRDJuJu51IbaknYbd2sxjoGTcpCF9N48Ev2Sn+Zj+wV9W5Uoz/SMZ0/F/GqCy3ow==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Aula16_ProcessamentoDeDados\\Exemplo3_CalculandoArea\\Exemplo3_CalculandoArea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
