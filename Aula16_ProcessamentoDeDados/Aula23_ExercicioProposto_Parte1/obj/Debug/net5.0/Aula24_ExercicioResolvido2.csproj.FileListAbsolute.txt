@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\bin\Debug\net5.0\Aula24_ExercicioResolvido2.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\bin\Debug\net5.0\Aula24_ExercicioResolvido2.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\bin\Debug\net5.0\Aula24_ExercicioResolvido2.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\bin\Debug\net5.0\Aula24_ExercicioResolvido2.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\bin\Debug\net5.0\Aula24_ExercicioResolvido2.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\bin\Debug\net5.0\ref\Aula24_ExercicioResolvido2.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\bin\Debug\net5.0\Aula24_ExercicioResolvido2.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\obj\Debug\net5.0\Aula24_ExercicioResolvido2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\obj\Debug\net5.0\Aula24_ExercicioResolvido2.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\obj\Debug\net5.0\Aula24_ExercicioResolvido2.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\obj\Debug\net5.0\Aula24_ExercicioResolvido2.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\obj\Debug\net5.0\Aula24_ExercicioResolvido2.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\obj\Debug\net5.0\ref\Aula24_ExercicioResolvido2.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\obj\Debug\net5.0\Aula24_ExercicioResolvido2.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula23_ExercicioProposto_Parte1\obj\Debug\net5.0\Aula24_ExercicioResolvido2.genruntimeconfig.cache

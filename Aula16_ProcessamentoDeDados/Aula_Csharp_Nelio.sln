@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula19_FuncoesMatematicas_s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula20_ExercicioResolvido_Secao03", "Aula20_ExercicioResolvido_Secao03\Aula20_ExercicioResolvido_Secao03.csproj", "{44959CC5-6189-4785-B16D-DCBA175262D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula24_ExercicioResolvido2", "Aula23_ExercicioProposto_Parte1\Aula24_ExercicioResolvido2.csproj", "{243D4D9B-6A48-4153-A30C-194F2FE5DEE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{44959CC5-6189-4785-B16D-DCBA175262D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44959CC5-6189-4785-B16D-DCBA175262D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44959CC5-6189-4785-B16D-DCBA175262D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243D4D9B-6A48-4153-A30C-194F2FE5DEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243D4D9B-6A48-4153-A30C-194F2FE5DEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243D4D9B-6A48-4153-A30C-194F2FE5DEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243D4D9B-6A48-4153-A30C-194F2FE5DEE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
