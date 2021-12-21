@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\bin\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\bin\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\bin\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\bin\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\bin\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\bin\Debug\net5.0\ref\Aula20_ExercicioResolvido_Secao03.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\bin\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\obj\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\obj\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\obj\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\obj\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\obj\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\obj\Debug\net5.0\ref\Aula20_ExercicioResolvido_Secao03.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\obj\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula20_ExercicioResolvido_Secao03\obj\Debug\net5.0\Aula20_ExercicioResolvido_Secao03.genruntimeconfig.cache
