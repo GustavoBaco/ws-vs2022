@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula32_secao04_estrutura_Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula33_Exercicio_Resolvido01_EstruturaCondicional", "Aula33_Exercicio_Resolvido01_EstruturaCondicional\Aula33_Exercicio_Resolvido01_EstruturaCondicional.csproj", "{3975E3DE-163B-428B-B00C-EA4359AA0625}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula34_Exercicio_Resolvido", "Aula34_Exercicio_Resolvido\Aula34_Exercicio_Resolvido.csproj", "{50C0C711-56D0-4484-8CBA-866DA42E789C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{3975E3DE-163B-428B-B00C-EA4359AA0625}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3975E3DE-163B-428B-B00C-EA4359AA0625}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3975E3DE-163B-428B-B00C-EA4359AA0625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C0C711-56D0-4484-8CBA-866DA42E789C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C0C711-56D0-4484-8CBA-866DA42E789C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C0C711-56D0-4484-8CBA-866DA42E789C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C0C711-56D0-4484-8CBA-866DA42E789C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

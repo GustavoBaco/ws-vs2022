@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\bin\Debug\net5.0\Aula34_Exercicio_Resolvido.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\bin\Debug\net5.0\Aula34_Exercicio_Resolvido.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\bin\Debug\net5.0\Aula34_Exercicio_Resolvido.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\bin\Debug\net5.0\Aula34_Exercicio_Resolvido.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\bin\Debug\net5.0\Aula34_Exercicio_Resolvido.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\bin\Debug\net5.0\ref\Aula34_Exercicio_Resolvido.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\bin\Debug\net5.0\Aula34_Exercicio_Resolvido.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\obj\Debug\net5.0\Aula34_Exercicio_Resolvido.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\obj\Debug\net5.0\Aula34_Exercicio_Resolvido.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\obj\Debug\net5.0\Aula34_Exercicio_Resolvido.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\obj\Debug\net5.0\Aula34_Exercicio_Resolvido.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\obj\Debug\net5.0\Aula34_Exercicio_Resolvido.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\obj\Debug\net5.0\ref\Aula34_Exercicio_Resolvido.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\obj\Debug\net5.0\Aula34_Exercicio_Resolvido.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula34_Exercicio_Resolvido\obj\Debug\net5.0\Aula34_Exercicio_Resolvido.genruntimeconfig.cache
