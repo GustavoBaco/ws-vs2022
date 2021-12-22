@@ -55,7 +55,27 @@
       "ProjectGuid": "09cb0090-bfe0-4b03-b34e-9b37688e6a98",
       "DisplayName": "Aula25_ExercicioResolvido_03",
       "ColorIndex": 10
+    },
+    "33551a30-2c36-42a7-bb25-38b9a1411cdf": {
+      "ProjectGuid": "33551a30-2c36-42a7-bb25-38b9a1411cdf",
+      "DisplayName": "Aula32_secao04_estrutura_Condicional",
+      "ColorIndex": 11
+    },
+    "3975e3de-163b-428b-b00c-ea4359aa0625": {
+      "ProjectGuid": "3975e3de-163b-428b-b00c-ea4359aa0625",
+      "DisplayName": "Aula33_Exercicio_Resolvido01_EstruturaCondicional",
+      "ColorIndex": 12
+    },
+    "50c0c711-56d0-4484-8cba-866da42e789c": {
+      "ProjectGuid": "50c0c711-56d0-4484-8cba-866da42e789c",
+      "DisplayName": "Aula34_Exercicio_Resolvido",
+      "ColorIndex": 13
+    },
+    "b1df77da-da6a-47c2-9047-44a3118158e9": {
+      "ProjectGuid": "b1df77da-da6a-47c2-9047-44a3118158e9",
+      "DisplayName": "Aula35_Exercicio_Resolvido03",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 15
 }
