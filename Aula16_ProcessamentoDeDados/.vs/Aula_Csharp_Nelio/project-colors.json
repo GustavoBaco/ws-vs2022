@@ -40,7 +40,22 @@
       "ProjectGuid": "cd61e953-78d8-49d8-87d4-72145c64e136",
       "DisplayName": "Aula19_FuncoesMatematicas_secao03",
       "ColorIndex": 7
+    },
+    "44959cc5-6189-4785-b16d-dcba175262d2": {
+      "ProjectGuid": "44959cc5-6189-4785-b16d-dcba175262d2",
+      "DisplayName": "Aula20_ExercicioResolvido_Secao03",
+      "ColorIndex": 8
+    },
+    "243d4d9b-6a48-4153-a30c-194f2fe5dee0": {
+      "ProjectGuid": "243d4d9b-6a48-4153-a30c-194f2fe5dee0",
+      "DisplayName": "Aula24_ExercicioResolvido2",
+      "ColorIndex": 9
+    },
+    "09cb0090-bfe0-4b03-b34e-9b37688e6a98": {
+      "ProjectGuid": "09cb0090-bfe0-4b03-b34e-9b37688e6a98",
+      "DisplayName": "Aula25_ExercicioResolvido_03",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 11
 }

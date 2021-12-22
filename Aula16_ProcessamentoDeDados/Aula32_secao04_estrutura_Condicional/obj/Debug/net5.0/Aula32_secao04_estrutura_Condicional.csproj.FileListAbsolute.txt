@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\bin\Debug\net5.0\Aula32_secao04_estrutura_Condicional.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\bin\Debug\net5.0\Aula32_secao04_estrutura_Condicional.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\bin\Debug\net5.0\Aula32_secao04_estrutura_Condicional.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\bin\Debug\net5.0\Aula32_secao04_estrutura_Condicional.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\bin\Debug\net5.0\Aula32_secao04_estrutura_Condicional.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\bin\Debug\net5.0\ref\Aula32_secao04_estrutura_Condicional.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\bin\Debug\net5.0\Aula32_secao04_estrutura_Condicional.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\obj\Debug\net5.0\Aula32_secao04_estrutura_Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\obj\Debug\net5.0\Aula32_secao04_estrutura_Condicional.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\obj\Debug\net5.0\Aula32_secao04_estrutura_Condicional.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\obj\Debug\net5.0\Aula32_secao04_estrutura_Condicional.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\obj\Debug\net5.0\Aula32_secao04_estrutura_Condicional.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\obj\Debug\net5.0\ref\Aula32_secao04_estrutura_Condicional.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\obj\Debug\net5.0\Aula32_secao04_estrutura_Condicional.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula32_secao04_estrutura_Condicional\obj\Debug\net5.0\Aula32_secao04_estrutura_Condicional.genruntimeconfig.cache

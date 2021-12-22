@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aula32_secao04_estrutura_Condicional/1.0.0": {
+        "runtime": {
+          "Aula32_secao04_estrutura_Condicional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula32_secao04_estrutura_Condicional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

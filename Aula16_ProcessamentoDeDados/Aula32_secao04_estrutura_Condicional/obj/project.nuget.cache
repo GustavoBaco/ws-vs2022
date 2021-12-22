@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7fT3t3gGCCCBoag/X5Q99hyeMKpr+v3fnWHmmmPnJd8OjCyB8q9Ch3DyalE//cVt6R+hJHtBCBm1P5YwMpf6w==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Aula16_ProcessamentoDeDados\\Aula32_secao04_estrutura_Condicional\\Aula32_secao04_estrutura_Condicional.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

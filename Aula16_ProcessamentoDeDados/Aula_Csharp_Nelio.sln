@@ -19,11 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_proposto_secao03"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula19_FuncoesMatematicas_secao03", "Aula19_FuncoesMatematicas_secao03\Aula19_FuncoesMatematicas_secao03.csproj", "{CD61E953-78D8-49D8-87D4-72145C64E136}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula20_ExercicioResolvido_Secao03", "Aula20_ExercicioResolvido_Secao03\Aula20_ExercicioResolvido_Secao03.csproj", "{44959CC5-6189-4785-B16D-DCBA175262D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula20_ExercicioResolvido_Secao03", "Aula20_ExercicioResolvido_Secao03\Aula20_ExercicioResolvido_Secao03.csproj", "{44959CC5-6189-4785-B16D-DCBA175262D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula24_ExercicioResolvido2", "Aula23_ExercicioProposto_Parte1\Aula24_ExercicioResolvido2.csproj", "{243D4D9B-6A48-4153-A30C-194F2FE5DEE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula24_ExercicioResolvido2", "Aula23_ExercicioProposto_Parte1\Aula24_ExercicioResolvido2.csproj", "{243D4D9B-6A48-4153-A30C-194F2FE5DEE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula25_ExercicioResolvido_03", "Aula25_ExercicioResolvido_03\Aula25_ExercicioResolvido_03.csproj", "{09CB0090-BFE0-4B03-B34E-9B37688E6A98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula25_ExercicioResolvido_03", "Aula25_ExercicioResolvido_03\Aula25_ExercicioResolvido_03.csproj", "{09CB0090-BFE0-4B03-B34E-9B37688E6A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula32_secao04_estrutura_Condicional", "Aula32_secao04_estrutura_Condicional\Aula32_secao04_estrutura_Condicional.csproj", "{33551A30-2C36-42A7-BB25-38B9A1411CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula33_Exercicio_Resolvido01_EstruturaCondicional", "Aula33_Exercicio_Resolvido01_EstruturaCondicional\Aula33_Exercicio_Resolvido01_EstruturaCondicional.csproj", "{3975E3DE-163B-428B-B00C-EA4359AA0625}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{09CB0090-BFE0-4B03-B34E-9B37688E6A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09CB0090-BFE0-4B03-B34E-9B37688E6A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09CB0090-BFE0-4B03-B34E-9B37688E6A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33551A30-2C36-42A7-BB25-38B9A1411CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33551A30-2C36-42A7-BB25-38B9A1411CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33551A30-2C36-42A7-BB25-38B9A1411CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33551A30-2C36-42A7-BB25-38B9A1411CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3975E3DE-163B-428B-B00C-EA4359AA0625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3975E3DE-163B-428B-B00C-EA4359AA0625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3975E3DE-163B-428B-B00C-EA4359AA0625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3975E3DE-163B-428B-B00C-EA4359AA0625}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

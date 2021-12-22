@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I03V7VKg/XRgQx0ffRo7Kp48bTUBoECOiYDb6fxJUk4dQN4ao3lQ+JdUB1bwQv/npbSInrltfC8j6q3FK6Sw0Q==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Exercicio_1009\\Exercicio_1009\\Exercicio_1009\\Exercicio_1009.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
