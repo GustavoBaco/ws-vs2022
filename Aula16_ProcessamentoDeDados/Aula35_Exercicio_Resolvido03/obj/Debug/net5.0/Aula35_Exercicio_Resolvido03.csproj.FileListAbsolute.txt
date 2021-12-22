@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\bin\Debug\net5.0\Aula35_Exercicio_Resolvido03.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\bin\Debug\net5.0\Aula35_Exercicio_Resolvido03.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\bin\Debug\net5.0\Aula35_Exercicio_Resolvido03.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\bin\Debug\net5.0\Aula35_Exercicio_Resolvido03.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\bin\Debug\net5.0\Aula35_Exercicio_Resolvido03.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\bin\Debug\net5.0\ref\Aula35_Exercicio_Resolvido03.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\bin\Debug\net5.0\Aula35_Exercicio_Resolvido03.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\obj\Debug\net5.0\Aula35_Exercicio_Resolvido03.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\obj\Debug\net5.0\Aula35_Exercicio_Resolvido03.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\obj\Debug\net5.0\Aula35_Exercicio_Resolvido03.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\obj\Debug\net5.0\Aula35_Exercicio_Resolvido03.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\obj\Debug\net5.0\Aula35_Exercicio_Resolvido03.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\obj\Debug\net5.0\ref\Aula35_Exercicio_Resolvido03.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\obj\Debug\net5.0\Aula35_Exercicio_Resolvido03.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula35_Exercicio_Resolvido03\obj\Debug\net5.0\Aula35_Exercicio_Resolvido03.genruntimeconfig.cache
