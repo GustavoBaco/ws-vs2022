@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\bin\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\bin\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\bin\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\bin\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\bin\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\bin\Debug\net5.0\ref\Aula40_EstruturaRepetitivaEnquanto..dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\bin\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\obj\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\obj\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\obj\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\obj\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\obj\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\obj\Debug\net5.0\ref\Aula40_EstruturaRepetitivaEnquanto..dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\obj\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula40_EstruturaRepetitivaEnquanto\obj\Debug\net5.0\Aula40_EstruturaRepetitivaEnquanto..genruntimeconfig.cache

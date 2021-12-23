@@ -25,13 +25,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula24_ExercicioResolvido2"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula25_ExercicioResolvido_03", "Aula25_ExercicioResolvido_03\Aula25_ExercicioResolvido_03.csproj", "{09CB0090-BFE0-4B03-B34E-9B37688E6A98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula32_secao04_estrutura_Condicional", "Aula32_secao04_estrutura_Condicional\Aula32_secao04_estrutura_Condicional.csproj", "{33551A30-2C36-42A7-BB25-38B9A1411CDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula32_secao04_estrutura_Condicional", "Aula32_secao04_estrutura_Condicional\Aula32_secao04_estrutura_Condicional.csproj", "{33551A30-2C36-42A7-BB25-38B9A1411CDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula33_Exercicio_Resolvido01_EstruturaCondicional", "Aula33_Exercicio_Resolvido01_EstruturaCondicional\Aula33_Exercicio_Resolvido01_EstruturaCondicional.csproj", "{3975E3DE-163B-428B-B00C-EA4359AA0625}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula33_Exercicio_Resolvido01_EstruturaCondicional", "Aula33_Exercicio_Resolvido01_EstruturaCondicional\Aula33_Exercicio_Resolvido01_EstruturaCondicional.csproj", "{3975E3DE-163B-428B-B00C-EA4359AA0625}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula34_Exercicio_Resolvido", "Aula34_Exercicio_Resolvido\Aula34_Exercicio_Resolvido.csproj", "{50C0C711-56D0-4484-8CBA-866DA42E789C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula34_Exercicio_Resolvido", "Aula34_Exercicio_Resolvido\Aula34_Exercicio_Resolvido.csproj", "{50C0C711-56D0-4484-8CBA-866DA42E789C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula35_Exercicio_Resolvido03", "Aula35_Exercicio_Resolvido03\Aula35_Exercicio_Resolvido03.csproj", "{B1DF77DA-DA6A-47C2-9047-44A3118158E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula35_Exercicio_Resolvido03", "Aula35_Exercicio_Resolvido03\Aula35_Exercicio_Resolvido03.csproj", "{B1DF77DA-DA6A-47C2-9047-44A3118158E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula40_EstruturaRepetitivaEnquanto.", "Aula40_EstruturaRepetitivaEnquanto\Aula40_EstruturaRepetitivaEnquanto..csproj", "{8FAD2E82-C140-4F57-A5DC-98E1576AD9C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{B1DF77DA-DA6A-47C2-9047-44A3118158E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1DF77DA-DA6A-47C2-9047-44A3118158E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1DF77DA-DA6A-47C2-9047-44A3118158E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAD2E82-C140-4F57-A5DC-98E1576AD9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAD2E82-C140-4F57-A5DC-98E1576AD9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAD2E82-C140-4F57-A5DC-98E1576AD9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAD2E82-C140-4F57-A5DC-98E1576AD9C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
