@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\bin\Debug\net5.0\Aula46_EstruturaRepetitivaPara.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\bin\Debug\net5.0\Aula46_EstruturaRepetitivaPara.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\bin\Debug\net5.0\Aula46_EstruturaRepetitivaPara.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\bin\Debug\net5.0\Aula46_EstruturaRepetitivaPara.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\bin\Debug\net5.0\Aula46_EstruturaRepetitivaPara.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\bin\Debug\net5.0\ref\Aula46_EstruturaRepetitivaPara.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\bin\Debug\net5.0\Aula46_EstruturaRepetitivaPara.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\obj\Debug\net5.0\Aula46_EstruturaRepetitivaPara.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\obj\Debug\net5.0\Aula46_EstruturaRepetitivaPara.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\obj\Debug\net5.0\Aula46_EstruturaRepetitivaPara.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\obj\Debug\net5.0\Aula46_EstruturaRepetitivaPara.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\obj\Debug\net5.0\Aula46_EstruturaRepetitivaPara.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\obj\Debug\net5.0\ref\Aula46_EstruturaRepetitivaPara.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\obj\Debug\net5.0\Aula46_EstruturaRepetitivaPara.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula46_EstruturaRepetitivaPara\obj\Debug\net5.0\Aula46_EstruturaRepetitivaPara.genruntimeconfig.cache

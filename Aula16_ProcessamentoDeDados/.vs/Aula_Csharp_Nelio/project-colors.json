@@ -95,7 +95,12 @@
       "ProjectGuid": "316a478d-6b15-44fe-a561-fd2f89791271",
       "DisplayName": "Aula44_ExercicioResolvido02",
       "ColorIndex": 1
+    },
+    "4a46e255-df03-4930-80e3-372be6dec6fa": {
+      "ProjectGuid": "4a46e255-df03-4930-80e3-372be6dec6fa",
+      "DisplayName": "Aula46_EstruturaRepetitivaPara",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

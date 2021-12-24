@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HWcdbrWeswv4syJR/DQ55uiwXiPTcFaFIeFDt2g98gi0UzCuWN0F6TZP5Gfr1q3sUPZbiUa+Dr1ICzEuHep2xw==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Aula16_ProcessamentoDeDados\\Aula46_EstruturaRepetitivaPara\\Aula46_EstruturaRepetitivaPara.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

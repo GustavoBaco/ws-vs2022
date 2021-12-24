@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula40_EstruturaRepetitivaE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula43_ExercicioResolvido01_EstruturaRepetitivaEnquanto", "Aula43_ExercicioResolvido01_EstruturaRepetitivaEnquanto\Aula43_ExercicioResolvido01_EstruturaRepetitivaEnquanto.csproj", "{01AAE8DE-5DEB-46B1-8C2F-680F8B74B838}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula44_ExercicioResolvido02", "Aula44_ExercicioResolvido02\Aula44_ExercicioResolvido02.csproj", "{316A478D-6B15-44FE-A561-FD2F89791271}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula44_ExercicioResolvido02", "Aula44_ExercicioResolvido02\Aula44_ExercicioResolvido02.csproj", "{316A478D-6B15-44FE-A561-FD2F89791271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula46_EstruturaRepetitivaPara", "Aula46_EstruturaRepetitivaPara\Aula46_EstruturaRepetitivaPara.csproj", "{4A46E255-DF03-4930-80E3-372BE6DEC6FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{316A478D-6B15-44FE-A561-FD2F89791271}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{316A478D-6B15-44FE-A561-FD2F89791271}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{316A478D-6B15-44FE-A561-FD2F89791271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A46E255-DF03-4930-80E3-372BE6DEC6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A46E255-DF03-4930-80E3-372BE6DEC6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A46E255-DF03-4930-80E3-372BE6DEC6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A46E255-DF03-4930-80E3-372BE6DEC6FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
