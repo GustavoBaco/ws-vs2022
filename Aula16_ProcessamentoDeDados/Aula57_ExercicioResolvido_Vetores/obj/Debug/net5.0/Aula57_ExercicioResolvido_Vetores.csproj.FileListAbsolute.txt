@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\bin\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\bin\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\bin\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\bin\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\bin\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\bin\Debug\net5.0\ref\Aula57_ExercicioResolvido_Vetores.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\bin\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\obj\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\obj\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\obj\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\obj\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\obj\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\obj\Debug\net5.0\ref\Aula57_ExercicioResolvido_Vetores.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\obj\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula57_ExercicioResolvido_Vetores\obj\Debug\net5.0\Aula57_ExercicioResolvido_Vetores.genruntimeconfig.cache
