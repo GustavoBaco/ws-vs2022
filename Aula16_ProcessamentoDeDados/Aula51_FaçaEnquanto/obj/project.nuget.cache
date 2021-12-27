@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WjXmk5R7jHbmU6uzS1DtqpItKaNQBgdnkIHp2BKIQeKQGELFXwiaiXzCcWYtXa6P9C3Gl39IouVOpZE/ddB7bQ==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Aula16_ProcessamentoDeDados\\Aula51_FaçaEnquanto\\Aula51_FaçaEnquanto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

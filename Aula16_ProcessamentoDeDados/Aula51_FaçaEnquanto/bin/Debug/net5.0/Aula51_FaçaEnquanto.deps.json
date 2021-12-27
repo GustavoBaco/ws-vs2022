@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aula51_FaçaEnquanto/1.0.0": {
+        "runtime": {
+          "Aula51_FaçaEnquanto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula51_FaçaEnquanto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

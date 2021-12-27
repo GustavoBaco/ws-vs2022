@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\bin\Debug\net5.0\Aula_49_ExercicioResolvido_1078.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\bin\Debug\net5.0\Aula_49_ExercicioResolvido_1078.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\bin\Debug\net5.0\Aula_49_ExercicioResolvido_1078.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\bin\Debug\net5.0\Aula_49_ExercicioResolvido_1078.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\bin\Debug\net5.0\Aula_49_ExercicioResolvido_1078.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\bin\Debug\net5.0\ref\Aula_49_ExercicioResolvido_1078.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\bin\Debug\net5.0\Aula_49_ExercicioResolvido_1078.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\obj\Debug\net5.0\Aula_49_ExercicioResolvido_1078.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\obj\Debug\net5.0\Aula_49_ExercicioResolvido_1078.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\obj\Debug\net5.0\Aula_49_ExercicioResolvido_1078.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\obj\Debug\net5.0\Aula_49_ExercicioResolvido_1078.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\obj\Debug\net5.0\Aula_49_ExercicioResolvido_1078.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\obj\Debug\net5.0\ref\Aula_49_ExercicioResolvido_1078.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\obj\Debug\net5.0\Aula_49_ExercicioResolvido_1078.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula_49_ExercicioResolvido_1078\obj\Debug\net5.0\Aula_49_ExercicioResolvido_1078.genruntimeconfig.cache

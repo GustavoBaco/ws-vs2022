@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\bin\Debug\net5.0\Aula51_FaçaEnquanto.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\bin\Debug\net5.0\Aula51_FaçaEnquanto.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\bin\Debug\net5.0\Aula51_FaçaEnquanto.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\bin\Debug\net5.0\Aula51_FaçaEnquanto.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\bin\Debug\net5.0\Aula51_FaçaEnquanto.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\bin\Debug\net5.0\ref\Aula51_FaçaEnquanto.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\bin\Debug\net5.0\Aula51_FaçaEnquanto.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\obj\Debug\net5.0\Aula51_FaçaEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\obj\Debug\net5.0\Aula51_FaçaEnquanto.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\obj\Debug\net5.0\Aula51_FaçaEnquanto.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\obj\Debug\net5.0\Aula51_FaçaEnquanto.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\obj\Debug\net5.0\Aula51_FaçaEnquanto.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\obj\Debug\net5.0\ref\Aula51_FaçaEnquanto.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\obj\Debug\net5.0\Aula51_FaçaEnquanto.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula51_FaçaEnquanto\obj\Debug\net5.0\Aula51_FaçaEnquanto.genruntimeconfig.cache

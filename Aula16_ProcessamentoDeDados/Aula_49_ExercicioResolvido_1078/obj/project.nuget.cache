@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oEricmxF89E9dvv6QKYqNb0vvAObrlAIP0Hg4Gt6hhR7XxAG5FWdqATwYyZMQSYrdSlb39fbIcyu6Fec77BJwQ==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Aula16_ProcessamentoDeDados\\Aula_49_ExercicioResolvido_1078\\Aula_49_ExercicioResolvido_1078.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
