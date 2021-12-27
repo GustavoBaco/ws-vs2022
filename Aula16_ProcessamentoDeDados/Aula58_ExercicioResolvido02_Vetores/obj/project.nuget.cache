@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kRyp8MB2lO8RZp8jwYtokZrZaeWefPqf6NO2W0190PWMcC3uGd73K9kYdnYwwztwWLdWKUMk1m3bdmFEUOwZPQ==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Aula16_ProcessamentoDeDados\\Aula58_ExercicioResolvido02_Vetores\\Aula58_ExercicioResolvido02_Vetores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

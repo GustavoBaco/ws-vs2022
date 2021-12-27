@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aula58_ExercicioResolvido02_Vetores/1.0.0": {
+        "runtime": {
+          "Aula58_ExercicioResolvido02_Vetores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula58_ExercicioResolvido02_Vetores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
