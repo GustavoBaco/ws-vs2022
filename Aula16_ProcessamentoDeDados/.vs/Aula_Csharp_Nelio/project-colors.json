@@ -100,7 +100,22 @@
       "ProjectGuid": "4a46e255-df03-4930-80e3-372be6dec6fa",
       "DisplayName": "Aula46_EstruturaRepetitivaPara",
       "ColorIndex": 2
+    },
+    "291c385b-b57d-40e2-97ee-73d894232f2b": {
+      "ProjectGuid": "291c385b-b57d-40e2-97ee-73d894232f2b",
+      "DisplayName": "Aula_49_ExercicioResolvido_1078",
+      "ColorIndex": 3
+    },
+    "7d450c97-64f9-46ef-ab57-a107d46d07a2": {
+      "ProjectGuid": "7d450c97-64f9-46ef-ab57-a107d46d07a2",
+      "DisplayName": "Aula50_ExercicioResolvido_1071",
+      "ColorIndex": 4
+    },
+    "c7cc7db6-c708-47cd-912d-cb230a09d416": {
+      "ProjectGuid": "c7cc7db6-c708-47cd-912d-cb230a09d416",
+      "DisplayName": "Aula51_FaçaEnquanto",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 6
 }
