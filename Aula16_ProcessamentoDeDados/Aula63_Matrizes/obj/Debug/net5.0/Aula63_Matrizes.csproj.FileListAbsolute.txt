@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\bin\Debug\net5.0\Aula63_Matrizes.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\bin\Debug\net5.0\Aula63_Matrizes.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\bin\Debug\net5.0\Aula63_Matrizes.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\bin\Debug\net5.0\Aula63_Matrizes.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\bin\Debug\net5.0\Aula63_Matrizes.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\bin\Debug\net5.0\ref\Aula63_Matrizes.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\bin\Debug\net5.0\Aula63_Matrizes.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\obj\Debug\net5.0\Aula63_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\obj\Debug\net5.0\Aula63_Matrizes.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\obj\Debug\net5.0\Aula63_Matrizes.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\obj\Debug\net5.0\Aula63_Matrizes.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\obj\Debug\net5.0\Aula63_Matrizes.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\obj\Debug\net5.0\ref\Aula63_Matrizes.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\obj\Debug\net5.0\Aula63_Matrizes.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula63_Matrizes\obj\Debug\net5.0\Aula63_Matrizes.genruntimeconfig.cache

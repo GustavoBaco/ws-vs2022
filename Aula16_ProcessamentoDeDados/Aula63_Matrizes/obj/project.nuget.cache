@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+rlJUcTxukenSq2DC0C9IgP7ZOuvmQzyIa07fNu/G2+LIARiK2u79iGT4W6AqUQ2kJqwQQh2DXnR1lTW6kTAQ==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Aula16_ProcessamentoDeDados\\Aula63_Matrizes\\Aula63_Matrizes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
