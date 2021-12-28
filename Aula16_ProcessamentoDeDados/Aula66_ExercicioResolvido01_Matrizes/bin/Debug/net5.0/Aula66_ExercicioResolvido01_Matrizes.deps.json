@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aula66_ExercicioResolvido01_Matrizes/1.0.0": {
+        "runtime": {
+          "Aula66_ExercicioResolvido01_Matrizes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula66_ExercicioResolvido01_Matrizes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

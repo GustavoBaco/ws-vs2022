@@ -57,6 +57,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula60_Foreach", "Aula60_Fo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula63_Matrizes", "Aula63_Matrizes\Aula63_Matrizes.csproj", "{E6836032-CE6B-4F19-816C-915E11F4F80E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula66_ExercicioResolvido01_Matrizes", "Aula66_ExercicioResolvido01_Matrizes\Aula66_ExercicioResolvido01_Matrizes.csproj", "{350ACC93-6287-4583-B3A2-49B780D41D7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{E6836032-CE6B-4F19-816C-915E11F4F80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6836032-CE6B-4F19-816C-915E11F4F80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6836032-CE6B-4F19-816C-915E11F4F80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350ACC93-6287-4583-B3A2-49B780D41D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350ACC93-6287-4583-B3A2-49B780D41D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350ACC93-6287-4583-B3A2-49B780D41D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350ACC93-6287-4583-B3A2-49B780D41D7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

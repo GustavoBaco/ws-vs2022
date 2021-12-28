@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\bin\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\bin\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\bin\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\bin\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\bin\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\bin\Debug\net5.0\ref\Aula66_ExercicioResolvido01_Matrizes.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\bin\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\obj\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\obj\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\obj\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\obj\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\obj\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\obj\Debug\net5.0\ref\Aula66_ExercicioResolvido01_Matrizes.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\obj\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula66_ExercicioResolvido01_Matrizes\obj\Debug\net5.0\Aula66_ExercicioResolvido01_Matrizes.genruntimeconfig.cache

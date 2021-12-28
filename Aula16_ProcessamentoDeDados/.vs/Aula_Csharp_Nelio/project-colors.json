@@ -135,7 +135,17 @@
       "ProjectGuid": "4d079433-b4d5-4818-958c-ed083991a756",
       "DisplayName": "Aula60_Foreach",
       "ColorIndex": 9
+    },
+    "e6836032-ce6b-4f19-816c-915e11f4f80e": {
+      "ProjectGuid": "e6836032-ce6b-4f19-816c-915e11f4f80e",
+      "DisplayName": "Aula63_Matrizes",
+      "ColorIndex": 10
+    },
+    "350acc93-6287-4583-b3a2-49b780d41d7c": {
+      "ProjectGuid": "350acc93-6287-4583-b3a2-49b780d41d7c",
+      "DisplayName": "Aula66_ExercicioResolvido01_Matrizes",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 12
 }

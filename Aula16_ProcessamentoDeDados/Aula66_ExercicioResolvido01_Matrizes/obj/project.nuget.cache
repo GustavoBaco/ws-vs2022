@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2o/yYVDOYPPE53qZnFI1E3471zShZXi3Yc4NjSPhxI+Brsoxryboh46VHgCnviDwlbXQvzw2lN/QVkhar4sHZA==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Aula16_ProcessamentoDeDados\\Aula66_ExercicioResolvido01_Matrizes\\Aula66_ExercicioResolvido01_Matrizes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
