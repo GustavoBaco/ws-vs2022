@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\bin\Debug\net5.0\Aula60_Foreach.exe
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\bin\Debug\net5.0\Aula60_Foreach.deps.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\bin\Debug\net5.0\Aula60_Foreach.runtimeconfig.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\bin\Debug\net5.0\Aula60_Foreach.runtimeconfig.dev.json
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\bin\Debug\net5.0\Aula60_Foreach.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\bin\Debug\net5.0\ref\Aula60_Foreach.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\bin\Debug\net5.0\Aula60_Foreach.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\obj\Debug\net5.0\Aula60_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\obj\Debug\net5.0\Aula60_Foreach.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\obj\Debug\net5.0\Aula60_Foreach.AssemblyInfo.cs
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\obj\Debug\net5.0\Aula60_Foreach.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\obj\Debug\net5.0\Aula60_Foreach.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\obj\Debug\net5.0\ref\Aula60_Foreach.dll
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\obj\Debug\net5.0\Aula60_Foreach.pdb
+C:\temp\ws-vs2022\Aula16_ProcessamentoDeDados\Aula60_Foreach\obj\Debug\net5.0\Aula60_Foreach.genruntimeconfig.cache

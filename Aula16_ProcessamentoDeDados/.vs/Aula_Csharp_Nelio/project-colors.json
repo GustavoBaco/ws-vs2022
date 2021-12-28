@@ -115,7 +115,27 @@
       "ProjectGuid": "c7cc7db6-c708-47cd-912d-cb230a09d416",
       "DisplayName": "Aula51_FaçaEnquanto",
       "ColorIndex": 5
+    },
+    "a9948727-cf2b-4235-83e6-a8dd4deb65e6": {
+      "ProjectGuid": "a9948727-cf2b-4235-83e6-a8dd4deb65e6",
+      "DisplayName": "Aula54_Vetores",
+      "ColorIndex": 6
+    },
+    "b1ced6ef-139a-4a4c-9ccb-b45779a19ea2": {
+      "ProjectGuid": "b1ced6ef-139a-4a4c-9ccb-b45779a19ea2",
+      "DisplayName": "Aula57_ExercicioResolvido_Vetores",
+      "ColorIndex": 7
+    },
+    "68ce2402-3984-4ad6-a489-109fd2ee27c0": {
+      "ProjectGuid": "68ce2402-3984-4ad6-a489-109fd2ee27c0",
+      "DisplayName": "Aula58_ExercicioResolvido02_Vetores",
+      "ColorIndex": 8
+    },
+    "4d079433-b4d5-4818-958c-ed083991a756": {
+      "ProjectGuid": "4d079433-b4d5-4818-958c-ed083991a756",
+      "DisplayName": "Aula60_Foreach",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 10
 }

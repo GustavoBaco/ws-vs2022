@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C8Nu7T+3kB+0TvoknCq6ii081LinKlgknbU0xDNFhvrClqZjrEizYoxpyF797QVHy7hcAoDIT6tQ3dQjyXbcqA==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\ws-vs2022\\Aula16_ProcessamentoDeDados\\Aula60_Foreach\\Aula60_Foreach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmanc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
